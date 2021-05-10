@@ -1,0 +1,7 @@
+numero1  =  int ( input ( "Ingrese el primer número:" ))
+numero2  =  int ( input ( "Ingrese el segundo número:" ))
+print ( "La suma de los números es:" , numero1  +  numero2 )
+print ( "La resta de los números es:" , numero1  -  numero2 )
+print ( "La multiplicacion de los números es:" , numero2  *  numero2 )
+print ( "La division de los números es:" , numero1  /  numero2 )
+print ( "El residuo de los números es:" , numero1  %  numero2 )
